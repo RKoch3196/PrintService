@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <organizationName>Place</organizationName>
+  <PaperSize>58</PaperSize> <!--in mm-->
+  <LegalPerson>SARA ZUNIGA MURILLO</LegalPerson>
+  <IDLegalPerson>1-1650-0540</IDLegalPerson>
+  <PhoneNumber>TEL: 40340895</PhoneNumber>
+  <Address>Residencial hacienda del rey 48J</Address>
+  <legalInformation>Regimen Simplificado</legalInformation>
+  <Slogan>...</Slogan>
+  <Sendoff>Gracias por su compra</Sendoff>
+</Configuration>
